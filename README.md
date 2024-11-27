@@ -1,3 +1,4 @@
 # Aamirah
 New repository
-author Aamir Sohail
+author- Mohammad Aamir Sohail
+address-ijmali
